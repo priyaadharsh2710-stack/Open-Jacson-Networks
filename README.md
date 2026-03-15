@@ -56,7 +56,7 @@ if(lam<mu1) and (lam<mu2) and (lam<mu3):
 else: 
     print("Warning! Objects overflow will happen in the conveyor") 
 print("--------------------------------------------------------------")
-``
+```
 
 ## Output
 
