@@ -61,3 +61,4 @@ print("--------------------------------------------------------------")
 ## Output
 
 ## Result
+Series Queues with infinite capacity - Open Jackson Network executed successfully
