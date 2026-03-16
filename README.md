@@ -59,6 +59,7 @@ print("--------------------------------------------------------------")
 ```
 
 ## Output
+![alt text](<maths 6.jpeg>)
 
 ## Result
 Series Queues with infinite capacity - Open Jackson Network executed successfully.
